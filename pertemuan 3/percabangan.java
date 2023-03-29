@@ -51,11 +51,6 @@ public class percabangan {
         //makanan : snack, nasi bungkus
         //minuman : kopi, teh, air mineral
 
-        //nested if
-        //cek menu yang dipilih (makanan/minuman)
-        //makanan : snack, nasi bungkus
-        //minuman : kopi, teh, air mineral
-
         String menu, jenis;
         System.out.print("Masukkan menu yang Anda pilih: ");
         menu = input.readLine();
