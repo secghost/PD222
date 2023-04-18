@@ -1,5 +1,7 @@
 /*
- * 
+ * @Author : Chavid Achfriedo
+ * @Date : 2023-04-18
+ * @Program : Tugas Pertemuan 6
  */
 
 package tugas6;
