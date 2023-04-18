@@ -3,4 +3,4 @@
 ## Array2D
 
 hasilnya seperti berikut :
-![](https://raw.githubusercontent.com/secghost/PD222/main/pertemuan%206/tugas6/tugas6.png)
+![](https://raw.githubusercontent.com/secghost/PD222/main/Pertemuan%206/tugas6/tugas6.png)
